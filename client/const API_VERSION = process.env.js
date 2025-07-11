@@ -1,0 +1,3 @@
+const API_VERSION = process.env.REACT_APP_API_VERSION;
+axios.post(`http://localhost:3000/auth/${API_VERSION}/user/login`, data)
+REACT_APP_API_VERSION=api
