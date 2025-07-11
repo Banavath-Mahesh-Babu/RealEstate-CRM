@@ -31,20 +31,6 @@ Take a tour of RealEstateCRM!
 
 ---
 
-## 🧰 **⚙️ Installation Guide**
-
-Get started in just a few steps!  
-📖 Follow our step-by-step installation documentation to set up RealEstateCRM on your local machine.
-
-🔗 **[👉 Click here to Install](https://github.com/prolinkinfo/RealEstateCRM#2)**
-
-📌 Requirements:
-- Node.js ≥ 14.x  
-- MongoDB  
-- Git & npm  
-
----
-
 ## 🤝 **🛠️ Contributing**
 
 We love collaboration! 💙  
